@@ -5,39 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa02619-06ae-40e3-8929-6e6b1e0bbeba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/products (2).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../worbook-3/GrossPay/employees.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../worbook-3/GrossPay/src/main/java/com/pluralsight/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../worbook-3/GrossPay/src/main/java/com/pluralsight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../worbook-3/SearchEngine/src/main/java/com/pluralsight/Searchengine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/AddressBuilder/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/AddressBuilder/src/main/java/com/pluralsight/AddressBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/FullNameApplication/src/main/java/com/pluralsight/FullNameApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/FullNamePraser/src/main/java/com/pluralsight/FullNamePraser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/PasswordMaker/src/main/java/com/pluralsight/PasswordMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/TheaterReservations/src/main/java/com/pluralsight/TheaterReservations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/Week2BookWorkshop/src/main/java/com/pluralsight/book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/Week2BookWorkshop/src/main/java/com/pluralsight/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/Week2project/src/main/java/com/pluralsight/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/intro-to-conditionals/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/intro-to-conditionals/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/intro-to-conditionals/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/intro-to-conditionals/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/intro-to-conditionals/src/test/java/com/pluralsight/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/intro-to-conditionals/src/test/java/j.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/while_do/src/main/java/com/pluralsight/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/while_do/src/main/java/com/pluralsight/dowhileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workbook-1/while_do/src/main/java/com/pluralsight/while_do.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workbook-1/MathApplication/src/main/java/com/pluralsight/MathApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workbook-1/MathApplication/src/main/java/com/pluralsight/MathApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/untitled" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gDV1pc79iTZ6AY2uNkDoiPwj9E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/pluralsight/java-development/OnlineStore"
+    "last_opened_file_path": "C:/pluralsight-workshop/OnlineStore"
   }
 }]]></component>
   <component name="RecentsManager">
